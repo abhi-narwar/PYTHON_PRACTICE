@@ -1,6 +1,6 @@
 # 🐍 Python Mastery
 
-This repository contains **Python programs, examples, and projects** from Abdul Bari’s "Learn Python from Beginner to Master" course.  
+This repository contains **Python programs, examples, and projects** from Abdul Bari’s "Learn Python from Beginner to Master" udemy course.  
 It is designed for **beginners to intermediate learners** to gain mastery in Python and build real-world applications.
 
 ---
