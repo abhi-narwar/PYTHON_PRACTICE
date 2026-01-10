@@ -156,7 +156,7 @@ Used as a **placeholder** when no action is required.
 ---
 
 ## 📌 Author
-**Abhishek Narwar Singh Jat**  
+**Abhishek Narwar**  
 B.Tech CSE (AI, ML & IoT)
 
 ---
